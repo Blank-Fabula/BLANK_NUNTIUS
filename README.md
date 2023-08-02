@@ -1,2 +1,2 @@
-# Blank_Nuntius
-This repository is using for nuntius.
+# BLANK-NUNTIUS
+### This repository is using for nuntius.
